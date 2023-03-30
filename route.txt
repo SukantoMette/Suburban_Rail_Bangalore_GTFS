@@ -1,0 +1,9 @@
+route_id,route_short_name,route_long_name,route_desc,route_type
+SK,Sampige KSR Bengaluru City,Sampige KSR Bengaluru City to Devanahalli,-1,1
+SD,Sampige Devanahalli,Sampige Devanahalli to KSR Bengaluru City,-1,1
+MB,Mallige Baiyyappanahalli Panel,Mallige Baiyyappanahalli Panel to Chikkabanavara,-1,1
+MC,Mallige Chikkabanavara,Mallige Chikkabanavara to Baiyyappanahalli Panel,-1,1
+PK,Parijaata Kengeri,Parijaata Kengeri to White Field,-1,1
+PW,Parijaata White Field,Parijaata White Field to Kengeri,-1,1
+KH,Kanaka Heelalige,Kanaka Heelalige to Rajankunte,-1,1
+KR,Kanaka Rajankunte,Kanaka Rajankunte to Heelalige,-1,1
